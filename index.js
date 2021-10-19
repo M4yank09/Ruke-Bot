@@ -1,5 +1,5 @@
 require("dotenv").config();
-console.log("Hi");
+console.log("Bot is online! (Bot by Legend.exe#0400)");
 //Defining dependencies
 const { Client, Collection } = require('discord.js');
 const { PREFIX } = require('./config.js');
